@@ -31,8 +31,5 @@ A full-stack expense management system built for **Namra Classes** to track Cash
 4. Run `npm run dev`
 5. Open `http://localhost:5000`
 
-## Default Login
-- **Username:** admin
-- **Password:** admin123
 
-> ⚠️ Change the default password after first login!
+
